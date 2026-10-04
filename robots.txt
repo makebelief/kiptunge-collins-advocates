@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kiptunge-collins-advocates.vercel.app/sitemap.xml
